@@ -1,0 +1,27 @@
+{
+  "name": "telegram-bot",
+  "version": "0.0.0",
+  "description": "Simple JavaScript API for Telegram Bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test"
+  },
+  "keywords": [
+    "telegram",
+    "telegram-bot"
+  ],
+  "author": "Lsong",
+  "license": "MIT",
+  "directories": {
+    "example": "example",
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/song940/telegram-bot.git"
+  },
+  "bugs": {
+    "url": "https://github.com/song940/telegram-bot/issues"
+  },
+  "homepage": "https://github.com/song940/telegram-bot#readme"
+}
